@@ -1,0 +1,6 @@
+#ifndef COMMANDSYSTEM_LIBRARY_H
+#define COMMANDSYSTEM_LIBRARY_H
+
+void hello();
+
+#endif //COMMANDSYSTEM_LIBRARY_H
